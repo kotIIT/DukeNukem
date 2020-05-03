@@ -1,4 +1,11 @@
-# Proof of Concept
+# DukeNuken
+
+## What is this?
+
+This tool force pushes a single commit to a Git remote, effectively deleting the entire repo's history of commits.
+
+## Proof of Concept
+
 ### Current repo. 1 Commit. 1 branch
 ![Image](Images/Repo_Here.png)
 
